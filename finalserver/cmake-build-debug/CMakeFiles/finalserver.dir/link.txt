@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\finalserver.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\finalserver.dir/objects.a @CMakeFiles\finalserver.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  -std=c++11 -s -O3 -I C:/Users/Shiro/Desktop/asio-1.10.6/include -g   -static -Wl,--whole-archive CMakeFiles\finalserver.dir/objects.a -Wl,--no-whole-archive -o finalserver.exe -Wl,--out-implib,libfinalserver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\finalserver.dir\linklibs.rsp
